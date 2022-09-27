@@ -9,7 +9,7 @@ def service():
         
 def service_url():
     urls = ['https://www.google.com', 'https://www.10ejemplos.com','https://www.yahoo.com','https://www.yahoo.com.mx','https://10ejemplos.com/category/gramática','https://www.ejemplode.com/12-clases_de_espanol/48-ejemplo_de_triptongo.html','https://www.facebook.com','https://www.youtube.com','https://www.reddit.com','https://en.wikipedia.org',
-            'http://www.direccion.org/ejemplo/item.html','https://pinguinodigital.com/blog/ejemplos-sobre-que-es-una-url/','https://www.reddit.com', 'https://linkedin.com', 'https://roblox.com', 'https://weather.com', 'https://baidu.com'
+            'http://www.direccion.org/ejemplo/item.html','https://pinguinodigital.com/blog/ejemplos-sobre-que-es-una-url/','https://www.reddit.com', 'https://linkedin.com', 'https://roblox.com', 'https://weather.com', 'https://baidu.com',
             'https://disenowebakus.net/imagenes/logo-akus.jpg','https://cnnespanol.cnn.com/','https://www.tocacuatro.com/','https://blog.virtualianet.com/buscar-imagenes-libres-derecho-autor-google/','https://themeisle.com/blog/what-is-a-website-url/','https://www.goya.com/es/recipes/caraotas-negras',
             'https://www.amazon.com/','https://okdiario.com/salud/tecnicas-medir-pulso-4673064','https://www.youtube.com/watch?v=CM4CkVFmTds']
     for x in urls:
