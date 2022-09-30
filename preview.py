@@ -12,6 +12,7 @@ def service_url():
             'http://www.direccion.org/ejemplo/item.html','https://pinguinodigital.com/blog/ejemplos-sobre-que-es-una-url/','https://www.reddit.com', 'https://linkedin.com', 'https://roblox.com', 'https://weather.com', 'https://baidu.com',
             'https://disenowebakus.net/imagenes/logo-akus.jpg','https://cnnespanol.cnn.com/','https://www.tocacuatro.com/','https://blog.virtualianet.com/buscar-imagenes-libres-derecho-autor-google/','https://themeisle.com/blog/what-is-a-website-url/','https://www.goya.com/es/recipes/caraotas-negras',
             'https://www.amazon.com/','https://okdiario.com/salud/tecnicas-medir-pulso-4673064','https://www.youtube.com/watch?v=CM4CkVFmTds']
+    
     for x in urls:
         
         stat = requests.head(x)
